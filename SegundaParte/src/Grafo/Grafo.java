@@ -11,7 +11,6 @@ public class Grafo {
     public void conectar(int v1, int v2, int p1){
 
     }
-    public void inicializar([] )
 
 
 }
